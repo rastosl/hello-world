@@ -1,3 +1,3 @@
 # hello-world
 
-Nice little repo to check out hwo this works!
+Nice little repo to check out how this works!
